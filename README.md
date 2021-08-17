@@ -21,10 +21,8 @@ This is a TicTacToe game built in HTML and CSS for the front-end and Javascript 
 - The board resets to the original state after each game or another option to reset is to click on the RESET button.
 - A Pop-up is displayed after each game declaring result in win/draw.
 
-# Algorithm 
+# Algorithms
 - The AI player uses MINIMAX algorithm to choose its next turn and it makes the AI player unbeatable.
-
-## Additional algorithms used :
 - `ALPHA BETA PRUNING`-> We have also used Alpha Beta Pruning which is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree(respective readme file for this algorithm is also available in the folder above).
 - `REINFORCEMENT LEARNING`-> We have also used Reinforcement Learning to implement our game. Reinforcement learning is the training of machine learning models to make a sequence of decisions(respective readme file for this algorithm is also available in the folder above).
 # Screenshots of the game (in case of minimax algorithm)
