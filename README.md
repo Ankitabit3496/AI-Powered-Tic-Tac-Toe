@@ -21,7 +21,7 @@ This is a TicTacToe game built in HTML and CSS for the front-end and Javascript 
 - The board resets to the original state after each game or another option to reset is to click on the RESET button.
 - A Pop-up is displayed after each game declaring result in win/draw.
 
-# Algorithm used
+# Algorithm 
 - The AI player uses MINIMAX algorithm to choose its next turn and it makes the AI player unbeatable.
 
 ## Additional algorithms used :
