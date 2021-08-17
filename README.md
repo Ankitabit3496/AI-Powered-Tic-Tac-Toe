@@ -29,5 +29,5 @@ This is a TicTacToe game built in HTML and CSS for the front-end and Javascript 
 - REINFORCEMENT LEARNING-> We have also used Reinforcement Learning to implement our game. Reinforcement learning is the training of machine learning models to make a sequence of decisions(respective readme file for this algorithm is also available in the folder above).
 # Screenshots of the game (in case of minimax algorithm)
 <kbd>![Screenshot](images/image1.png)</kbd>
-![Screenshot](images/image3.png)
-![Screenshot](images/image2.png)
+<kbd>![Screenshot](images/image3.png)</kbd>
+<kbd>![Screenshot](images/image2.png)</kbd>
