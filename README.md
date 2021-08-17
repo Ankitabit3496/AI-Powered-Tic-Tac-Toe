@@ -28,6 +28,6 @@ This is a TicTacToe game built in HTML and CSS for the front-end and Javascript 
 - ALPHA BETA PRUNING-> We have also used Alpha Beta Pruning which is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree(respective readme file for this algorithm is also available in the folder above).
 - REINFORCEMENT LEARNING-> We have also used Reinforcement Learning to implement our game. Reinforcement learning is the training of machine learning models to make a sequence of decisions(respective readme file for this algorithm is also available in the folder above).
 # Screenshots of the game (in case of minimax algorithm)
-![Screenshot](images/image1.png)
+<kbd>![Screenshot](images/image1.png)</kbd>
 ![Screenshot](images/image3.png)
 ![Screenshot](images/image2.png)
